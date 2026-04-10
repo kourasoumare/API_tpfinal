@@ -8,6 +8,8 @@ node server.js
 ```
 
 ## Structure du projet
+
+```
 ├── server.js
 ├── bd.js
 ├── middlewares/
@@ -17,8 +19,9 @@ node server.js
 │   ├── authors.route.js
 │   └── articles.route.js
 └── controllers/
-├── authors.controller.js
-└── articles.controller.js
+    ├── authors.controller.js
+    └── articles.controller.js
+```
 
 ## Routes et exemples
 
