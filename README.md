@@ -25,7 +25,7 @@ node server.js
 
 ## Routes et exemples
 
-### 👤 Authors
+### Authors
 
 **GET /authors** — Récupérer tous les auteurs
 ```json
@@ -70,7 +70,7 @@ node server.js
 
 ---
 
-### 📚 Articles
+### Articles
 
 **GET /articles** — Récupérer tous les articles
 ```json
