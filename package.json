@@ -1,0 +1,18 @@
+{
+  "name": "api_tpfinal",
+  "version": "0.0.1",
+  "description": "api pour la gestion de contenu TPFINAL",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "better-sqlite3": "^12.8.0",
+    "express": "^5.2.1"
+  }
+}
